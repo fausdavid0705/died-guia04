@@ -1,4 +1,4 @@
-package ejercicio01;
+package died.guia04.ejercicio01;
 
 public class Punto {
 	float x;
@@ -24,10 +24,4 @@ public class Punto {
 	public void setY(float y) {
 		this.y = y;
 	}
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 }

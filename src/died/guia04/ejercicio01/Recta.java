@@ -1,4 +1,4 @@
-package ejercicio01;
+package died.guia04.ejercicio01;
 
 public class Recta {
 	Punto p1;
