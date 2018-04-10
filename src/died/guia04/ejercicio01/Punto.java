@@ -24,4 +24,8 @@ public class Punto {
 	public void setY(float y) {
 		this.y = y;
 	}
+	
+	public boolean equals(Punto otroPunto) {
+		return (this.x==otroPunto.getX()&&this.y==otroPunto.getY());
+	}
 }
